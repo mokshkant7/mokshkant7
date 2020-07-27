@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![welcome](https://github.com/mokshkant7/mokshkant7/blob/master/welcome.gif)
+![moksh](https://github.com/mokshkant7/mokshkant7/blob/master/moksh.gif)
 
 <!--
 **mokshkant7/mokshkant7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
